@@ -235,6 +235,7 @@ Following is a list of concepts and topics that will help you become a better Ru
 ### Videos
 
 - 🎥 [Hotwire Turbo Streams CRUD](https://www.youtube.com/watch?v=csvaYIaBYpw)
+- 🎥 [Realtime partial page updates with Turbo Streams](https://www.youtube.com/watch?v=ZB4YnzxMxkE)
 
 [⬆ Back to Top](#table-of-contents)
 
