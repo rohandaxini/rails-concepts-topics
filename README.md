@@ -229,8 +229,11 @@ Following is a list of concepts and topics that will help you become a better Ru
 
 ### Articles
 
+- 📜 [Building a todo app with Turbo](https://www.colby.so/posts/turbo-rails-101-todo-list)
 - 📜 [Turbo Frames on Rails](https://www.colby.so/posts/turbo-frames-on-rails)
 - 📜 [What is Turbo](https://github.com/hotwired/turbo-rails)
+- 📜 [Reddit Thread on Turbo](https://www.reddit.com/r/rails/comments/rp05bw/rails_7_hotwire_processing_by_html_vs_processing/)
+
 
 ### Videos
 
