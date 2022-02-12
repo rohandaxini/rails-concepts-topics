@@ -261,6 +261,6 @@ Following is a list of concepts and topics that will help you become a better Ru
 
 ## Contributing
 
-I encourage you to contribute to this list of questions. Please free to submit your PR for any additions or updates. This will immensely help Ruby on Rails community.
+I encourage you to contribute to this list of questions. Please feel free to submit your PR for any additions or updates. This will immensely help Ruby on Rails community.
 
 Any contributions you make to this effort are greatly appreciated.
