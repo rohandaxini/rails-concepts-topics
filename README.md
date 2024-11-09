@@ -168,8 +168,8 @@ Following is a list of concepts and topics that will help you become a better Ru
 
 ### Articles
 
+- 📜 [All Design Patterns by Refactoring Guru](https://refactoring.guru/design-patterns)
 - 📜 [10 Popular Design Patterns for Ruby on Rails](https://scoutapm.com/blog/rails-design-patterns)
-- 📜 [Rails design patterns](https://longliveruby.com/articles/rails-design-patterns-the-big-picture)
 
 ### Videos
 
